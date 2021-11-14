@@ -1,0 +1,2 @@
+org_name,begin_timestamp,end_timestamp,end_datetime,end_year,end_month,end_day,domain_policy,p,sp,source_ip,count,disposition,header_from
+google.com,1635724800,1635811199,"2021-11-01 06:11:59",2021,11,01,example.com,reject,quarantine,234.56.78.90,2,reject,example.com
