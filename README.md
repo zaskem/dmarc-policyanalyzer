@@ -1,4 +1,4 @@
-# DMARC Policy Analyzer
+# DMARC Report Analyzer
 Quick and Dirty PHP script to recursively analyze and summarize DMARC XML reports.
 
 The DNS DMARC policy record affords a way to collect "daily" reports where email/domain activity has been encountered. The receiving address is set via the `rua` argument in DNS.
